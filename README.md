@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm <a href="https://github.com/tsabina2197">Sherzod</a></h1>
+  <h1>👋 Hi, I'm <a href="https://github.com/asherzod2197">Sherzod</a></h1>
   <p><em>Backend Developer</em></p>
 </div>
 
