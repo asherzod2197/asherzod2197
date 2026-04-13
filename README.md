@@ -14,6 +14,14 @@
 
 ---
 
+<div align="center">
+
+![ATAXANOV Banner](banner.svg)
+
+</div>
+
+---
+
 <!-- ===================== ABOUT ===================== -->
 
 ## 🌊 About Me
