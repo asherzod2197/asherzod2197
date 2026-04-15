@@ -76,42 +76,18 @@
 
 ### ⚡ Backend & Fullstack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=django" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=c" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=python,flask,django,c,cpp)
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=jinja" width="55" height="55"/>
-</p>
-
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jinja)
 ### 🛢 Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=redis" width="55" height="55"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)
 
 ### 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
 
 ---
 
