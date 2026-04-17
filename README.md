@@ -28,7 +28,7 @@
 
 <img align="right" width="365" height="230" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius:12px; margin-left:16px;"/>
 
-```yaml
+```
 👤 Name     : Ataxanov Sherzodbek
 💻 Role     : Backend Developer & Database Engineer
 🎓 Study    : IT Park Uzbekistan
